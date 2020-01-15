@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MirroringDemo_Example' do
+  pod 'MirroringDemo', :path => '../'
+
+  target 'MirroringDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
