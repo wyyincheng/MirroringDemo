@@ -1,0 +1,16 @@
+PODS:
+  - MirroringDemo (0.1.0)
+
+DEPENDENCIES:
+  - MirroringDemo (from `../`)
+
+EXTERNAL SOURCES:
+  MirroringDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MirroringDemo: ed53699a9a6f7807d93654face5f5bf11d1c57b9
+
+PODFILE CHECKSUM: 4317abb0d766448d2461d2f1ed176b5aab19b937
+
+COCOAPODS: 1.8.3
